@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ This program takes a user-inputted value of n and puts it into the sequence 3n+1. If the value is positive, it is halved; if the value is odd, it is put into the sequence. The function returns the number of iterations it takes to get to 1. The graph function graphs the value for n on the x-axis and the number of iterations to get to 1 on the y-axis. A second turtle is used to keep track of the maximum so far in the top left of the screen.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ None
 
 ## REFERENCES:
- < List any outside resources used >
+ Python Docs
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ None
